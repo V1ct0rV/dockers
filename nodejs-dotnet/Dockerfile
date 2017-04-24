@@ -1,5 +1,5 @@
 # escape=`
-# Use windows server core as a build image, intall node.js on it, then copy to nano server.
+# Use windows server core as a build image, install node.js on it, then copy to nano server.
 FROM microsoft/windowsservercore
 
 # Install node.js
